@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "н">
 <!ENTITY cmd.uninstall.label "Уклони">
 <!ENTITY cmd.uninstall2.accesskey "У">
+<!ENTITY esifindstylebrowser "Нађи ESI стилове за ову страницу...">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "Нађи стилове за ову страницу...">
 <!ENTITY findstylebrowser.ak "Н">
 <!ENTITY managestyles "Управљање стиловима...">

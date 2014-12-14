@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "W">
 <!ENTITY cmd.uninstall.label "Odinstaluj">
 <!ENTITY cmd.uninstall2.accesskey "O">
+<!ENTITY esifindstylebrowser "Znajdź ESI style dla tej witryny…">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "Znajdź style dla tej witryny…">
 <!ENTITY findstylebrowser.ak "Z">
 <!ENTITY managestyles "Zarządzaj stylami…">

@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "Z">
 <!ENTITY cmd.uninstall.label "Odinstalovat">
 <!ENTITY cmd.uninstall2.accesskey "O">
+<!ENTITY esifindstylebrowser "Najít ESI styly pro tuto stránku...">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "Najít styly pro tuto stránku...">
 <!ENTITY findstylebrowser.ak "N">
 <!ENTITY managestyles "Spravovat styly...">

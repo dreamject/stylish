@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "מ">
 <!ENTITY cmd.uninstall.label "הסרה">
 <!ENTITY cmd.uninstall2.accesskey "ס">
+<!ENTITY esifindstylebrowser "מצא סגנונות ESI לאתר זה...">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "מצא סגנונות עבור אתר זה...">
 <!ENTITY findstylebrowser.ak "מ">
 <!ENTITY managestyles "ניהול סגנונות...">

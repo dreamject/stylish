@@ -22,11 +22,12 @@
 
 	<popupset id="mainPopupSet">
 		<menupopup id="stylish-popup" onpopupshowing="stylishOverlay.popupShowing(event)" onpopuphiding="stylishOverlay.popupHiding(event)" position="after_start">
+			<menuitem id="stylish-find-styles" label="&findstylebrowser;" accesskey="&findstylebrowser.ak;" oncommand="stylishOverlay.findStyle(event)" onclick="checkForMiddleClick(this, event)"/>
+			<menuitem id="stylish-esifind-styles" label="&esifindstylebrowser;" accesskey="&esifindstylebrowser.ak;" oncommand="stylishOverlay.esifindStyle(event)" onclick="checkForMiddleClick(this, event)"/>
 			<menuitem id="stylish-manage" label="&managestyles;" accesskey="&managestyles.ak;" oncommand="stylishOverlay.openManage()"/>
 			<menuitem id="stylish-turn-on" label="&turnon;" accesskey="&turnon.ak;" oncommand="stylishOverlay.turnOnOff(true)"/>
 			<menuitem id="stylish-turn-off" label="&turnoff;" accesskey="&turnoff.ak;" oncommand="stylishOverlay.turnOnOff(false)"/>
 			<menuitem id="stylish-add-file" label="&addfile;" accesskey="&addfile.ak;" oncommand="stylishOverlay.installFromFile(event)"/>
-			<menuitem id="stylish-find-styles" label="&findstylebrowser;" accesskey="&findstylebrowser.ak;" oncommand="stylishOverlay.findStyle(event)" onclick="checkForMiddleClick(this, event)"/>
 			<menu id="stylish-write-style-menu" label="&writestyle;" accesskey="&writestyle.ak;">
 				<menupopup onpopupshowing="stylishOverlay.writeStylePopupShowing(event)" onpopuphiding="stylishCommon.clearAllMenuItems(event)"/>
 			</menu>
@@ -45,11 +46,12 @@
 	<!-- for tb single message window -->
 	<popupset insertafter="mailContext">
 		<menupopup id="stylish-popup" onpopupshowing="stylishOverlay.popupShowing(event)" onpopuphiding="stylishOverlay.popupHiding(event)" position="after_start">
+			<menuitem id="stylish-find-styles" label="&findstylebrowser;" accesskey="&findstylebrowser.ak;" oncommand="stylishOverlay.findStyle(event)" onclick="checkForMiddleClick(this, event)"/>
+			<menuitem id="stylish-esifind-styles" label="&esifindstylebrowser;" accesskey="&esifindstylebrowser.ak;" oncommand="stylishOverlay.esifindStyle(event)" onclick="checkForMiddleClick(this, event)"/>
 			<menuitem id="stylish-manage" label="&managestyles;" accesskey="&managestyles.ak;" oncommand="stylishOverlay.openManage()"/>
 			<menuitem id="stylish-turn-on" label="&turnon;" accesskey="&turnon.ak;" oncommand="stylishOverlay.turnOnOff(true)"/>
 			<menuitem id="stylish-turn-off" label="&turnoff;" accesskey="&turnoff.ak;" oncommand="stylishOverlay.turnOnOff(false)"/>
 			<menuitem id="stylish-add-file" label="&addfile;" accesskey="&addfile.ak;" oncommand="stylishOverlay.installFromFile(event)"/>
-			<menuitem id="stylish-find-styles" label="&findstylebrowser;" accesskey="&findstylebrowser.ak;" oncommand="stylishOverlay.findStyle(event)" onclick="checkForMiddleClick(this, event)"/>
 			<menu id="stylish-write-style-menu" label="&writestyle;" accesskey="&writestyle.ak;">
 				<menupopup onpopupshowing="stylishOverlay.writeStylePopupShowing(event)" onpopuphiding="stylishCommon.clearAllMenuItems(event)"/>
 			</menu>

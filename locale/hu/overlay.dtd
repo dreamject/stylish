@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "s">
 <!ENTITY cmd.uninstall.label "Eltávolítás">
 <!ENTITY cmd.uninstall2.accesskey "l">
+<!ENTITY esifindstylebrowser "ESI stílusfájlok keresése ehhez az oldalhoz">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "Stílusfájlok keresése ehhez az oldalhoz">
 <!ENTITY findstylebrowser.ak "k">
 <!ENTITY managestyles "Stílusfájlok kezelése">

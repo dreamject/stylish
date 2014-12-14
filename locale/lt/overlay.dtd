@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "I">
 <!ENTITY cmd.uninstall.label "Pašalinti">
 <!ENTITY cmd.uninstall2.accesskey "P">
+<!ENTITY esifindstylebrowser "Ieškoti ESI stilių šiai svetainei...">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "Ieškoti stilių šiai svetainei...">
 <!ENTITY findstylebrowser.ak "E">
 <!ENTITY managestyles "Tvarkyti stilius...">

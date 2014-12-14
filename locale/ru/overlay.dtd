@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "т">
 <!ENTITY cmd.uninstall.label "Удалить">
 <!ENTITY cmd.uninstall2.accesskey "д">
+<!ENTITY esifindstylebrowser "Найти ESI стили для текущего сайта">
+<!ENTITY esifindstylebrowser.ak "е">
 <!ENTITY findstylebrowser "Найти стили для текущего сайта">
 <!ENTITY findstylebrowser.ak "Н">
 <!ENTITY managestyles "Управление стилями">

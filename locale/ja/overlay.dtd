@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "D">
 <!ENTITY cmd.uninstall.label "削除">
 <!ENTITY cmd.uninstall2.accesskey "U">
+<!ENTITY esifindstylebrowser "このサイト用のESIスタイルを探す">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "このサイト用のスタイルを探す">
 <!ENTITY findstylebrowser.ak "F">
 <!ENTITY managestyles "スタイルの管理...">

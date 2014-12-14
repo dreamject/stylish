@@ -422,6 +422,9 @@ var stylishOverlay = {
 	findStyle: function(e) {
 		openUILinkIn(stylishOverlay.URL_STRINGS.getFormattedString("findstylesforthissiteurl", [encodeURIComponent(content.location.href)]), "tab");
 	},
+	esifindStyle: function(e) {
+		openUILinkIn(stylishOverlay.URL_STRINGS.getFormattedString("esifindstylesforthissiteurl", [encodeURIComponent(content.location.href)]), "tab");
+	},
 
 	menuItemClassesToClear: ["stylish-menuseparator", "style-menu-item", "no-style-menu-item"],
 	clearStyleMenuItems: function(event) {

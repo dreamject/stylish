@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "D">
 <!ENTITY cmd.uninstall.label "移除">
 <!ENTITY cmd.uninstall2.accesskey "U">
+<!ENTITY esifindstylebrowser "尋找此ESI網站的樣式…">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "尋找此網站的樣式…">
 <!ENTITY findstylebrowser.ak "F">
 <!ENTITY managestyles "管理樣式…">

@@ -6,6 +6,8 @@
 <!ENTITY cmd.disable.accesskey "K">
 <!ENTITY cmd.uninstall.label "Eemalda">
 <!ENTITY cmd.uninstall2.accesskey "E">
+<!ENTITY esifindstylebrowser "Leia ESI stiile sellele lehele">
+<!ENTITY esifindstylebrowser.ak " ">
 <!ENTITY findstylebrowser "Leia stiile sellele lehele">
 <!ENTITY findstylebrowser.ak "L">
 <!ENTITY managestyles "Halda stiile...">
